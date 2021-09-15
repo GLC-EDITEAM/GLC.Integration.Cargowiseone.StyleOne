@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Integration.Cargowiseone.StyleOne", "GLC.Integration.Cargowiseone.StyleOne\GLC.Integration.Cargowiseone.StyleOne.btproj", "{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GLC.Integration.Cargowiseone.StyleOne.PipelineComp", "GLC.Integration.Cargowiseone.StyleOne.PipelineComp\GLC.Integration.Cargowiseone.StyleOne.PipelineComp.csproj", "{0D28A78A-BC40-4CCD-A173-47E9657A102D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A4FAF1-2168-4FF0-A23C-C80C867BB78F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0D28A78A-BC40-4CCD-A173-47E9657A102D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D28A78A-BC40-4CCD-A173-47E9657A102D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D28A78A-BC40-4CCD-A173-47E9657A102D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D28A78A-BC40-4CCD-A173-47E9657A102D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
